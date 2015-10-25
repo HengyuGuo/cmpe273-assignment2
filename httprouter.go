@@ -3,7 +3,8 @@ package main
 import (  
     "fmt"
     "net/http"
-    "controllers"
+    "os"
+    "assignment2/controllers"
     // Third party packages
     "gopkg.in/mgo.v2"
     "github.com/julienschmidt/httprouter"
