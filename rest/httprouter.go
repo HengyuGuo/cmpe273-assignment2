@@ -3,6 +3,7 @@ package main
 import (  
     "fmt"
     "net/http"
+    "os"
     "assignment2/controllers"
     // Third party packages
     "gopkg.in/mgo.v2"
